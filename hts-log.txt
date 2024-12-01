@@ -1,0 +1,368 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 01 Dec 2024 22:33:30 at http://jaybabani.com/ultra-admin-html/preview/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://jaybabani.com/ultra-admin-html/preview/index.html -O1 "C:\Users\Xeven\Downloads\Ultra Admin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:33:32	Warning: 	Found for jaybabani.com/robots.txt
+22:33:32	Warning: 	File has moved from jaybabani.com/robots.txt to 404.html
+22:33:43	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): jaybabani.com/ultra-admin-html/preview/assets/css/responsive.css
+22:34:59	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/jvectormap/jquery-jvectormap-2.0.1.css (from jaybabani.com/ultra-admin-html/preview/index.html)
+22:35:55	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/404.html (loop to same filename)
+22:35:55	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/404.html
+22:35:57	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/404.html (loop to same filename)
+22:35:57	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/404.html
+22:36:37	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/js/404.html (loop to same filename)
+22:36:37	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/js/404.html
+22:39:03	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/form-components.html (from jaybabani.com/ultra-admin-html/preview/index.html)
+22:41:17	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/js/jquery.easing.min.js (from jaybabani.com/ultra-admin-html/preview/index.html)
+22:41:20	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/morris-chart/js/morris.min.js (from jaybabani.com/ultra-admin-html/preview/index.html)
+22:41:20	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/jvectormap/jquery-jvectormap-2.0.1.min.js (from jaybabani.com/ultra-admin-html/preview/index.html)
+22:41:24	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/js/chart-sparkline.js (from jaybabani.com/ultra-admin-html/preview/index.html)
+22:41:24	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.2.0 (from jaybabani.com/ultra-admin-html/preview/assets/fonts/font-awesome/css/font-awesome.css)
+22:41:29	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/jquery-ui/smoothness/images/ui-icons_888888_256x240.png (from jaybabani.com/ultra-admin-html/preview/assets/plugins/jquery-ui/smoothness/jquery-ui.min.css)
+22:41:29	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/jquery-ui/smoothness/images/ui-icons_cd0a0a_256x240.png (from jaybabani.com/ultra-admin-html/preview/assets/plugins/jquery-ui/smoothness/jquery-ui.min.css)
+22:41:29	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/rickshaw-chart/images/om_lines.png (from jaybabani.com/ultra-admin-html/preview/assets/plugins/rickshaw-chart/css/extensions.css)
+22:41:29	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/icheck/skins/minimal/white.png (from jaybabani.com/ultra-admin-html/preview/assets/plugins/icheck/skins/minimal/white.css)
+22:41:30	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/icheck/skins/minimal/white@2x.png (from jaybabani.com/ultra-admin-html/preview/assets/plugins/icheck/skins/minimal/white.css)
+22:42:24	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/js/404.html (loop to same filename)
+22:42:24	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/js/404.html
+22:43:28	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/mus-upload.html (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:43:30	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/mus-song-add.html (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:43:48	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/albums/album-5.jpg (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:43:48	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/albums/album-7.jpg (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:43:48	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/albums/album-8.jpg (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:43:52	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/404.html (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:43:53	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/songs/song-5.jpg (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:43:58	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/songs/song-7.jpg (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:43:58	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/songs/song-10.jpg (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:44:02	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/songs/song-12.jpg (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:44:02	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/songs/song-16.jpg (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:44:06	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/songs/song-18.jpg (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:44:07	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/index-crm.html (from jaybabani.com/ultra-admin-html/preview/crm.html)
+22:44:07	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/crm-mail-inbox.html (from jaybabani.com/ultra-admin-html/preview/crm.html)
+22:44:09	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/crm-leads.html (from jaybabani.com/ultra-admin-html/preview/crm.html)
+22:44:18	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/index-socialmedia.html (from jaybabani.com/ultra-admin-html/preview/socialmedia.html)
+22:48:13	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/eco-tag-add.html (from jaybabani.com/ultra-admin-html/preview/ecommerce.html)
+22:50:04	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/messenger/js/messenger-theme-flat.js (from jaybabani.com/ultra-admin-html/preview/ui-notifications.html)
+22:50:08	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/thumb.png (from jaybabani.com/ultra-admin-html/preview/ui-extra.html)
+22:50:45	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:50:45	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:50:47	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:50:47	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:50:48	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:50:48	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:50:49	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:50:49	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:50:50	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:50:50	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:50:51	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:50:51	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:50:53	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:50:53	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:50:54	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:50:54	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:50:55	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:50:55	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:50:56	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:50:56	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:50:57	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:50:57	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:50:59	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:50:59	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:51:00	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:51:00	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:51:08	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:51:08	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:51:10	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:51:10	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:51:11	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:51:11	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:51:12	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html (loop to same filename)
+22:51:12	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html
+22:51:13	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html (loop to same filename)
+22:51:13	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html
+22:51:14	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html (loop to same filename)
+22:51:14	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html
+22:51:16	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html (loop to same filename)
+22:51:16	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html
+22:51:22	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html (loop to same filename)
+22:51:22	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html
+22:51:39	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/light_square/404.html (loop to same filename)
+22:51:39	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/light_square/404.html
+22:51:45	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/light_square/404.html (loop to same filename)
+22:51:45	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/light_square/404.html
+22:51:51	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:51:51	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:51:52	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:51:52	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:51:53	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:51:53	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:51:54	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:51:54	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:51:58	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:51:58	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:51:59	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:51:59	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:01	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:01	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:02	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:02	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:04	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:04	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:05	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:05	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:08	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:08	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:09	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:09	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:10	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:10	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:12	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:12	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:13	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:13	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:14	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:14	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:17	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:17	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:18	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:18	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:19	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:19	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:21	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:21	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:21	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html (loop to same filename)
+22:52:21	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/facebook/404.html
+22:52:22	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/image-cropper/js/cropper.js (from jaybabani.com/ultra-admin-html/preview/ui-imagecrop.html)
+22:52:22	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/image-cropper/js/main.js (from jaybabani.com/ultra-admin-html/preview/ui-imagecrop.html)
+22:52:22	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/tocify/css/jquery.tocify.css (from jaybabani.com/ultra-admin-html/preview/ui-tocify.html)
+22:52:32	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.min.js (from jaybabani.com/ultra-admin-html/preview/tables-data.html)
+22:52:35	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.2.0 (from jaybabani.com/ultra-admin-html/preview/assets/fonts/font-awesome/css/font-awesome.css)
+22:52:35	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/doctors/doctor-5.jpg (from jaybabani.com/ultra-admin-html/preview/hos-doctors.html)
+22:52:35	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/doctors/doctor-7.jpg (from jaybabani.com/ultra-admin-html/preview/hos-doctors.html)
+22:52:35	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/doctors/doctor-9.jpg (from jaybabani.com/ultra-admin-html/preview/hos-doctors.html)
+22:52:35	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/datepicker/css/datepicker.css (from jaybabani.com/ultra-admin-html/preview/hos-doctor-add.html)
+22:52:36	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/patients/patient-2.jpg (from jaybabani.com/ultra-admin-html/preview/hos-patients.html)
+22:52:36	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/patients/patient-5.jpg (from jaybabani.com/ultra-admin-html/preview/hos-patients.html)
+22:52:37	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/patients/patient-7.jpg (from jaybabani.com/ultra-admin-html/preview/hos-patients.html)
+22:52:39	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/patients/patient-8.jpg (from jaybabani.com/ultra-admin-html/preview/hos-patients.html)
+22:52:47	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/patients/patient-9.jpg (from jaybabani.com/ultra-admin-html/preview/hos-patients.html)
+22:52:48	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/patients/patient-11.jpg (from jaybabani.com/ultra-admin-html/preview/hos-patients.html)
+22:52:49	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/hos-staffs/staff-2.jpg (from jaybabani.com/ultra-admin-html/preview/hos-staffs.html)
+22:52:50	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/hos-staffs/staff-3.jpg (from jaybabani.com/ultra-admin-html/preview/hos-staffs.html)
+22:52:52	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/hos-staffs/staff-8.jpg (from jaybabani.com/ultra-admin-html/preview/hos-staffs.html)
+22:52:52	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/hos-staffs/staff-10.jpg (from jaybabani.com/ultra-admin-html/preview/hos-staffs.html)
+22:52:53	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/hos-staffs/staff-11.jpg (from jaybabani.com/ultra-admin-html/preview/hos-staffs.html)
+22:53:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/calendars/hos-events.js (from jaybabani.com/ultra-admin-html/preview/hos-events.html)
+22:53:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/songs/song-20.jpg (from jaybabani.com/ultra-admin-html/preview/mus-genres.html)
+22:53:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/songs/song-23.jpg (from jaybabani.com/ultra-admin-html/preview/mus-genres.html)
+22:53:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/songs/song-25.jpg (from jaybabani.com/ultra-admin-html/preview/mus-genres.html)
+22:53:02	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/mus-artists/artist-2.jpg (from jaybabani.com/ultra-admin-html/preview/mus-artists.html)
+22:53:02	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/mus-artists/artist-6.jpg (from jaybabani.com/ultra-admin-html/preview/mus-artists.html)
+22:53:04	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/mus-artists/artist-12.jpg (from jaybabani.com/ultra-admin-html/preview/mus-artists.html)
+22:53:04	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/mus-artists/artist-16.jpg (from jaybabani.com/ultra-admin-html/preview/mus-artists.html)
+22:53:13	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/mus-artists/artist-18.jpg (from jaybabani.com/ultra-admin-html/preview/mus-artists.html)
+22:53:13	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/mus-artists/artist-20.jpg (from jaybabani.com/ultra-admin-html/preview/mus-artists.html)
+22:53:15	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/playlists/playlist-1.jpg (from jaybabani.com/ultra-admin-html/preview/mus-playlists.html)
+22:53:15	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/playlists/playlist-5.jpg (from jaybabani.com/ultra-admin-html/preview/mus-playlists.html)
+22:53:15	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/playlists/playlist-8.jpg (from jaybabani.com/ultra-admin-html/preview/mus-playlists.html)
+22:53:15	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/mus-mail-sent.html (from jaybabani.com/ultra-admin-html/preview/mus-mail-inbox.html)
+22:53:17	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/albums/album-7.jpg (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:53:22	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/404.html
+22:53:22	Warning: 	Redirected link is identical because of 'URL Hack' option: jaybabani.com/ultra-admin-html/preview/404.html and jaybabani.com/ultra-admin-html/preview/404.html
+22:53:22	Warning: 	Can not bear crazy server (Found) for jaybabani.com/ultra-admin-html/preview/404.html
+22:53:22	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/songs/song-7.jpg (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:53:26	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/songs/song-12.jpg (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:53:27	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/index-crm.html (from jaybabani.com/ultra-admin-html/preview/crm.html)
+22:53:30	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/crm-leads.html (from jaybabani.com/ultra-admin-html/preview/crm.html)
+22:53:31	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/soc-mail-sent.html (from jaybabani.com/ultra-admin-html/preview/soc-mail-inbox.html)
+22:53:31	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/soc-members/member-3.jpg (from jaybabani.com/ultra-admin-html/preview/soc-members.html)
+22:53:31	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/soc-members/member-6.jpg (from jaybabani.com/ultra-admin-html/preview/soc-members.html)
+22:53:33	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/soc-members/member-8.jpg (from jaybabani.com/ultra-admin-html/preview/soc-members.html)
+22:53:38	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/soc-members/member-12.jpg (from jaybabani.com/ultra-admin-html/preview/soc-members.html)
+22:53:42	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/soc-media/media-2.jpg (from jaybabani.com/ultra-admin-html/preview/soc-media.html)
+22:53:42	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/soc-media/media-5.jpg (from jaybabani.com/ultra-admin-html/preview/soc-media.html)
+22:53:48	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/soc-media/media-7.jpg (from jaybabani.com/ultra-admin-html/preview/soc-media.html)
+22:53:52	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/soc-groups/group-4.jpg (from jaybabani.com/ultra-admin-html/preview/soc-groups.html)
+22:53:52	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/soc-groups/group-8.jpg (from jaybabani.com/ultra-admin-html/preview/soc-groups.html)
+22:53:54	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/soc-groups/group-11.jpg (from jaybabani.com/ultra-admin-html/preview/soc-groups.html)
+22:54:03	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/professors/professor-5.jpg (from jaybabani.com/ultra-admin-html/preview/uni-professors.html)
+22:54:06	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/professors/professor-6.jpg (from jaybabani.com/ultra-admin-html/preview/uni-professors.html)
+22:54:16	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/professors/professor-7.jpg (from jaybabani.com/ultra-admin-html/preview/uni-professors.html)
+22:54:16	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/professors/professor-8.jpg (from jaybabani.com/ultra-admin-html/preview/uni-professors.html)
+22:54:19	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/students/student-1.jpg (from jaybabani.com/ultra-admin-html/preview/uni-students.html)
+22:54:19	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/students/student-3.jpg (from jaybabani.com/ultra-admin-html/preview/uni-students.html)
+22:54:20	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/students/student-4.jpg (from jaybabani.com/ultra-admin-html/preview/uni-students.html)
+22:54:26	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/students/student-6.jpg (from jaybabani.com/ultra-admin-html/preview/uni-students.html)
+22:54:29	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/students/student-9.jpg (from jaybabani.com/ultra-admin-html/preview/uni-students.html)
+22:54:30	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/students/student-11.jpg (from jaybabani.com/ultra-admin-html/preview/uni-students.html)
+22:54:30	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/uni-mail-sent.html (from jaybabani.com/ultra-admin-html/preview/uni-mail-inbox.html)
+22:54:30	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/uni-mail-drafts.html (from jaybabani.com/ultra-admin-html/preview/uni-mail-inbox.html)
+22:54:31	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/uni-course-profile.html (from jaybabani.com/ultra-admin-html/preview/uni-courses.html)
+22:54:31	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/courses/course-5.jpg (from jaybabani.com/ultra-admin-html/preview/uni-courses.html)
+22:54:32	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/courses/course-7.jpg (from jaybabani.com/ultra-admin-html/preview/uni-courses.html)
+22:54:32	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/courses/course-8.jpg (from jaybabani.com/ultra-admin-html/preview/uni-courses.html)
+22:54:33	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/courses/course-9.jpg (from jaybabani.com/ultra-admin-html/preview/uni-courses.html)
+22:54:36	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/uni-staffs/staff-1.jpg (from jaybabani.com/ultra-admin-html/preview/uni-staffs.html)
+22:54:36	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/uni-staffs/staff-3.jpg (from jaybabani.com/ultra-admin-html/preview/uni-staffs.html)
+22:54:39	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/uni-staffs/staff-5.jpg (from jaybabani.com/ultra-admin-html/preview/uni-staffs.html)
+22:54:39	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/uni-staffs/staff-7.jpg (from jaybabani.com/ultra-admin-html/preview/uni-staffs.html)
+22:54:43	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/uni-staffs/staff-9.jpg (from jaybabani.com/ultra-admin-html/preview/uni-staffs.html)
+22:54:43	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/uni-staffs/staff-11.jpg (from jaybabani.com/ultra-admin-html/preview/uni-staffs.html)
+22:54:45	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/calendars/uni-events.js (from jaybabani.com/ultra-admin-html/preview/uni-events.html)
+22:54:45	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-1.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:54:47	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-3.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:54:47	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-4.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:54:48	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-9.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:54:50	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-11.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:54:59	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-13.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:55:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-15.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:55:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-16.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:55:02	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-19.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:55:02	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-21.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:55:02	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-23.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:55:03	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-25.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:55:07	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-vendors/vendor-1.jpg (from jaybabani.com/ultra-admin-html/preview/eco-vendor-edit.html)
+22:55:07	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/eco-mail-important.html (from jaybabani.com/ultra-admin-html/preview/eco-mail-inbox.html)
+22:55:09	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/blo-media/media-1.jpg (from jaybabani.com/ultra-admin-html/preview/blo-media.html)
+22:55:09	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/blo-media/media-6.jpg (from jaybabani.com/ultra-admin-html/preview/blo-media.html)
+22:55:09	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/blo-users/user-9.jpg (from jaybabani.com/ultra-admin-html/preview/blo-users.html)
+22:55:13	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/uikit/fonts/fontawesome-webfont.eot (from jaybabani.com/ultra-admin-html/preview/assets/plugins/uikit/css/uikit.min.css)
+22:55:13	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/thumb.png (from jaybabani.com/ultra-admin-html/preview/ui-extra.html)
+22:55:48	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/AppleWebKit/
+22:55:48	Warning: 	File has moved from jaybabani.com/ultra-admin-html/preview/AppleWebKit/ to 404.html
+22:55:48	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/AppleWebKit/404.html (loop to same filename)
+22:55:48	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/AppleWebKit/404.html
+22:55:49	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/AppleWebKit/404.html (loop to same filename)
+22:55:49	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/AppleWebKit/404.html
+22:55:49	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/Chrome/
+22:55:49	Warning: 	File has moved from jaybabani.com/ultra-admin-html/preview/Chrome/ to 404.html
+22:55:49	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/Chrome/404.html (loop to same filename)
+22:55:49	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/Chrome/404.html
+22:55:50	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/Chrome/404.html (loop to same filename)
+22:55:50	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/Chrome/404.html
+22:55:50	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/Opera/
+22:55:50	Warning: 	File has moved from jaybabani.com/ultra-admin-html/preview/Opera/ to 404.html
+22:55:51	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/Opera/404.html (loop to same filename)
+22:55:51	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/Opera/404.html
+22:55:51	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/Opera/404.html (loop to same filename)
+22:55:51	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/Opera/404.html
+22:55:51	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/hpwos/
+22:55:51	Warning: 	File has moved from jaybabani.com/ultra-admin-html/preview/hpwos/ to 404.html
+22:55:54	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/hpwos/404.html (loop to same filename)
+22:55:54	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/hpwos/404.html
+22:55:54	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/hpwos/404.html (loop to same filename)
+22:55:54	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/hpwos/404.html
+22:55:55	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/trident/
+22:55:55	Warning: 	File has moved from jaybabani.com/ultra-admin-html/preview/trident/ to 404.html
+22:55:55	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/trident/404.html (loop to same filename)
+22:55:55	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/trident/404.html
+22:55:56	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/trident/404.html (loop to same filename)
+22:55:56	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/trident/404.html
+22:55:56	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/applewebkit/
+22:55:56	Warning: 	File has moved from jaybabani.com/ultra-admin-html/preview/applewebkit/ to 404.html
+22:55:56	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/applewebkit/404.html (loop to same filename)
+22:55:56	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/applewebkit/404.html
+22:55:57	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/applewebkit/404.html (loop to same filename)
+22:55:57	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/applewebkit/404.html
+22:55:57	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/adobeair/
+22:55:57	Warning: 	File has moved from jaybabani.com/ultra-admin-html/preview/adobeair/ to 404.html
+22:55:57	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/adobeair/404.html (loop to same filename)
+22:55:57	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/adobeair/404.html
+22:55:58	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/adobeair/404.html (loop to same filename)
+22:55:58	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/adobeair/404.html
+22:55:58	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/plugins/
+22:55:58	Warning: 	File has moved from jaybabani.com/ultra-admin-html/preview/plugins/ to 404.html
+22:55:58	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/plugins/404.html (loop to same filename)
+22:55:58	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/plugins/404.html
+22:56:00	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/plugins/404.html (loop to same filename)
+22:56:00	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/plugins/404.html
+22:56:00	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/chrome/
+22:56:00	Warning: 	File has moved from jaybabani.com/ultra-admin-html/preview/chrome/ to 404.html
+22:56:00	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/chrome/404.html (loop to same filename)
+22:56:00	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/chrome/404.html
+22:56:01	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/chrome/404.html (loop to same filename)
+22:56:01	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/chrome/404.html
+22:56:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/sprite.png (from jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/prettyPhoto.css)
+22:56:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html (from jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/prettyPhoto.css)
+22:56:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/btnPrevious.png (from jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/prettyPhoto.css)
+22:56:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/light_square/404.html (from jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/prettyPhoto.css)
+22:56:02	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/youtu.be/
+22:56:02	Warning: 	File has moved from jaybabani.com/ultra-admin-html/preview/youtu.be/ to 404.html
+22:56:03	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/youtu.be/404.html (loop to same filename)
+22:56:03	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/youtu.be/404.html
+22:56:03	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/youtu.be/404.html (loop to same filename)
+22:56:03	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/youtu.be/404.html
+22:56:04	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/doctors/doctor-5.jpg (from jaybabani.com/ultra-admin-html/preview/hos-doctors.html)
+22:56:04	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/doctors/doctor-7.jpg (from jaybabani.com/ultra-admin-html/preview/hos-doctors.html)
+22:56:04	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/doctors/doctor-9.jpg (from jaybabani.com/ultra-admin-html/preview/hos-doctors.html)
+22:56:04	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/patients/patient-9.jpg (from jaybabani.com/ultra-admin-html/preview/hos-patients.html)
+22:56:13	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/hos-staffs/staff-2.jpg (from jaybabani.com/ultra-admin-html/preview/hos-staffs.html)
+22:56:13	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/hos-staffs/staff-10.jpg (from jaybabani.com/ultra-admin-html/preview/hos-staffs.html)
+22:56:13	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/calendars/hos-events.js (from jaybabani.com/ultra-admin-html/preview/hos-events.html)
+22:56:14	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/songs/song-20.jpg (from jaybabani.com/ultra-admin-html/preview/mus-genres.html)
+22:56:14	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/mus-artists/artist-2.jpg (from jaybabani.com/ultra-admin-html/preview/mus-artists.html)
+22:56:14	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/mus-artists/artist-12.jpg (from jaybabani.com/ultra-admin-html/preview/mus-artists.html)
+22:56:16	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/mus-artists/artist-18.jpg (from jaybabani.com/ultra-admin-html/preview/mus-artists.html)
+22:56:16	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/playlists/playlist-1.jpg (from jaybabani.com/ultra-admin-html/preview/mus-playlists.html)
+22:56:23	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/playlists/playlist-5.jpg (from jaybabani.com/ultra-admin-html/preview/mus-playlists.html)
+22:56:23	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/songs/song-12.jpg (from jaybabani.com/ultra-admin-html/preview/music.html)
+22:56:24	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/soc-mail-sent.html (from jaybabani.com/ultra-admin-html/preview/soc-mail-inbox.html)
+22:56:24	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/soc-media/media-2.jpg (from jaybabani.com/ultra-admin-html/preview/soc-media.html)
+22:56:25	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/soc-groups/group-4.jpg (from jaybabani.com/ultra-admin-html/preview/soc-groups.html)
+22:56:25	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/professors/professor-7.jpg (from jaybabani.com/ultra-admin-html/preview/uni-professors.html)
+22:56:25	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/students/student-1.jpg (from jaybabani.com/ultra-admin-html/preview/uni-students.html)
+22:56:25	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/students/student-9.jpg (from jaybabani.com/ultra-admin-html/preview/uni-students.html)
+22:56:28	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/students/student-11.jpg (from jaybabani.com/ultra-admin-html/preview/uni-students.html)
+22:56:28	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/uni-course-profile.html
+22:56:28	Warning: 	File has moved from jaybabani.com/ultra-admin-html/preview/uni-course-profile.html to 404.html
+22:56:28	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/courses/course-7.jpg (from jaybabani.com/ultra-admin-html/preview/uni-courses.html)
+22:56:38	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/uni-staffs/staff-1.jpg (from jaybabani.com/ultra-admin-html/preview/uni-staffs.html)
+22:56:38	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/uni-staffs/staff-5.jpg (from jaybabani.com/ultra-admin-html/preview/uni-staffs.html)
+22:56:39	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/uni-staffs/staff-9.jpg (from jaybabani.com/ultra-admin-html/preview/uni-staffs.html)
+22:56:39	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/calendars/uni-events.js (from jaybabani.com/ultra-admin-html/preview/uni-events.html)
+22:56:39	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-3.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:56:39	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-9.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:56:39	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-15.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:56:39	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-19.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:56:40	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-23.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:56:49	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/eco-vendors/vendor-1.jpg (from jaybabani.com/ultra-admin-html/preview/eco-vendor-edit.html)
+22:56:50	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/data/blo-media/media-6.jpg (from jaybabani.com/ultra-admin-html/preview/blo-media.html)
+22:56:50	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/uikit/fonts/fontawesome-webfont.eot (from jaybabani.com/ultra-admin-html/preview/assets/plugins/uikit/css/uikit.min.css)
+22:56:50	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/thumb.png (from jaybabani.com/ultra-admin-html/preview/ui-extra.html)
+22:56:50	Warning: 	Retry after error -4 (No data (connection closed)) at link jaybabani.com/ultra-admin-html/preview/assets/plugins/icheck/skins/flat/flat.png (from jaybabani.com/ultra-admin-html/preview/assets/plugins/icheck/skins/flat/_all.css)
+22:56:50	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/sprite.png
+22:56:50	Warning: 	File has moved from jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/sprite.png to 404.html
+22:56:52	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:56:52	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:56:55	Warning: 	Unable to test jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html (loop to same filename)
+22:56:55	Warning: 	link is probably looping, type unknown, aborting: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_rounded/404.html
+22:56:55	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html
+22:56:55	Warning: 	Redirected link is identical because of 'URL Hack' option: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html and jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html
+22:56:55	Warning: 	Can not bear crazy server (Found) for jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/404.html
+22:56:55	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/btnPrevious.png
+22:56:55	Warning: 	File has moved from jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/dark_square/btnPrevious.png to 404.html
+22:56:55	Warning: 	Found for jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/light_square/404.html
+22:56:55	Warning: 	Redirected link is identical because of 'URL Hack' option: jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/light_square/404.html and jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/light_square/404.html
+22:56:55	Warning: 	Can not bear crazy server (Found) for jaybabani.com/ultra-admin-html/preview/assets/plugins/prettyphoto/light_square/404.html
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/hos-staffs/staff-2.jpg (from jaybabani.com/ultra-admin-html/preview/hos-staffs.html)
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/calendars/hos-events.js (from jaybabani.com/ultra-admin-html/preview/hos-events.html)
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/mus-artists/artist-2.jpg (from jaybabani.com/ultra-admin-html/preview/mus-artists.html)
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/mus-artists/artist-18.jpg (from jaybabani.com/ultra-admin-html/preview/mus-artists.html)
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/playlists/playlist-5.jpg (from jaybabani.com/ultra-admin-html/preview/mus-playlists.html)
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/soc-media/media-2.jpg (from jaybabani.com/ultra-admin-html/preview/soc-media.html)
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/soc-groups/group-4.jpg (from jaybabani.com/ultra-admin-html/preview/soc-groups.html)
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/students/student-11.jpg (from jaybabani.com/ultra-admin-html/preview/uni-students.html)
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/uni-staffs/staff-1.jpg (from jaybabani.com/ultra-admin-html/preview/uni-staffs.html)
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/uni-staffs/staff-5.jpg (from jaybabani.com/ultra-admin-html/preview/uni-staffs.html)
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/uni-staffs/staff-9.jpg (from jaybabani.com/ultra-admin-html/preview/uni-staffs.html)
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/eco-products/product-19.jpg (from jaybabani.com/ultra-admin-html/preview/eco-products.html)
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/eco-vendors/vendor-1.jpg (from jaybabani.com/ultra-admin-html/preview/eco-vendor-edit.html)
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/data/blo-media/media-6.jpg (from jaybabani.com/ultra-admin-html/preview/blo-media.html)
+22:56:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link jaybabani.com/ultra-admin-html/preview/assets/plugins/uikit/fonts/fontawesome-webfont.eot (from jaybabani.com/ultra-admin-html/preview/assets/plugins/uikit/css/uikit.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 minutes 25 seconds : 1123 links scanned, 927 files written (54781127 bytes overall) [26967421 bytes received at 19193 bytes/sec], 33304031 bytes transferred using HTTP compression in 661 files, ratio 15%, 4.6 requests per connection
+(17 errors, 340 warnings, 0 messages)
